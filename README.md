@@ -1,2 +1,2 @@
 # HackerRank
-Some of the problems i solved in HackerRank
+Some of the problems i solved in HackerRank. They are not all working but most of them do. Also i should state that there are so many other problems i solved in HackerRank, but since i solved them online they aren't here. All the codes written here is in Java and uncommented. I didn't check the folder properly. The reason i upload it here is to show how much time i spent in HackerRank. I also should say that i enjoyed the time!
